@@ -1,4 +1,4 @@
-const Header = () => (
+const Abc = () => (
     <header className="site-header">
       <div className="logo">MySite</div>
       <nav className="nav-links">
